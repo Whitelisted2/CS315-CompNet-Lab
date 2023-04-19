@@ -13,5 +13,8 @@ This repository contains files related to Computer Networks Lab (Spring 2023).
 9. Application Layer: [DHCP](https://github.com/Whitelisted2/CS315-CompNet-Lab/tree/main/Assignment%2009 "Dynamic Host Configuration Protocol")
 10. Network Layer: [ICMP](https://github.com/Whitelisted2/CS315-CompNet-Lab/tree/main/Assignment%2010 "Internet Control Message Protocol"), Socket Programming (UDP Pinger)
 11. Data Link Layer: [Ethernet](https://github.com/Whitelisted2/CS315-CompNet-Lab/tree/main/Assignment%2011 "Ethernet"), [ARP](https://github.com/Whitelisted2/CS315-CompNet-Lab/tree/main/Assignment%2011 "Address Resolution Protocol")
+12. Data Link Layer: [802.11 WiFi](https://github.com/Whitelisted2/CS315-CompNet-Lab/tree/main/Assignment%2012 "Wireless Fidelity")
+13. Transport Layer: [TLS](https://github.com/Whitelisted2/CS315-CompNet-Lab/tree/main/Assignment%2013 "Transport Layer Security")
+14. (PA-CS348): [P2P](https://github.com/Whitelisted2/CS315-CompNet-Lab/tree/main/CS348%20Assignment "Peer-to-Peer")
 
 > Know thy self, know thy enemy. A thousand battles, a thousand victories. ― Sun Tzu, The Art of War.
